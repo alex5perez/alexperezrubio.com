@@ -19,7 +19,8 @@ Mi sitio web personal y profesional, donde muestro quién soy como desarrollador
 - GitHub
 
 ## 📦 Estructura del proyecto
-´´´
+
+```
 /
 ├── index.html
 ├── styles.css
@@ -30,7 +31,7 @@ Mi sitio web personal y profesional, donde muestro quién soy como desarrollador
 ├── favicon.png
 ├── fotoCV.png
 ├── Alex_Perez_Rubio_CV.pdf
-´´´
+```
 
 Puedes visitar el sitio en:  
 👉 **[alexperezrubio.com](https://alexperezrubio.com)**
