@@ -28,6 +28,7 @@ Mi sitio web personal y profesional, donde muestro quién soy como desarrollador
 │ ├── app.js
 │ ├── react.development.js
 │ └── react-dom.development.js
+└── img/
 ├── favicon.png
 ├── fotoCV.png
 ├── Alex_Perez_Rubio_CV.pdf
