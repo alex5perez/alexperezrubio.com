@@ -30,3 +30,12 @@ Mi sitio web personal y profesional, donde muestro quién soy como desarrollador
 ├── favicon.png
 ├── fotoCV.png
 ├── Alex_Perez_Rubio_CV.pdf
+
+Puedes visitar el sitio en:  
+👉 **[alexperezrubio.com](https://alexperezrubio.com)**
+
+## 📬 Contacto
+
+- 📧 Email: alexperezrubio8@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/alex-perez-rubio](https://linkedin.com/in/alex-perez-rubio)  
+- 💻 GitHub: [github.com/alex5perez](https://github.com/alex5perez)
