@@ -20,13 +20,13 @@ Mi sitio web personal y profesional, donde muestro quién soy como desarrollador
 
 ## 📦 Estructura del proyecto
 
+/
 ├── index.html
 ├── styles.css
 ├── js/
 │ ├── app.js
 │ ├── react.development.js
 │ └── react-dom.development.js
-├── img/ (opcional)
 ├── favicon.png
 ├── fotoCV.png
-└── Alex_Perez_Rubio_CV.pdf
+├── Alex_Perez_Rubio_CV.pdf
